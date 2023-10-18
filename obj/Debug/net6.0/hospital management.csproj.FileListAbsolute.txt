@@ -1,0 +1,34 @@
+E:\Uni\app dev with .net\a1\hospital management\hospital management\obj\Debug\net6.0\hospital management.csproj.AssemblyReference.cache
+E:\Uni\app dev with .net\a1\hospital management\hospital management\obj\Debug\net6.0\hospital management.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\app dev with .net\a1\hospital management\hospital management\obj\Debug\net6.0\hospital management.AssemblyInfoInputs.cache
+E:\Uni\app dev with .net\a1\hospital management\hospital management\obj\Debug\net6.0\hospital management.AssemblyInfo.cs
+E:\Uni\app dev with .net\a1\hospital management\hospital management\obj\Debug\net6.0\hospital management.csproj.CoreCompileInputs.cache
+E:\Uni\app dev with .net\a1\hospital management\hospital management\bin\Debug\net6.0\hospital management.exe
+E:\Uni\app dev with .net\a1\hospital management\hospital management\bin\Debug\net6.0\hospital management.deps.json
+E:\Uni\app dev with .net\a1\hospital management\hospital management\bin\Debug\net6.0\hospital management.runtimeconfig.json
+E:\Uni\app dev with .net\a1\hospital management\hospital management\bin\Debug\net6.0\hospital management.dll
+E:\Uni\app dev with .net\a1\hospital management\hospital management\bin\Debug\net6.0\hospital management.pdb
+E:\Uni\app dev with .net\a1\hospital management\hospital management\obj\Debug\net6.0\hospital management.dll
+E:\Uni\app dev with .net\a1\hospital management\hospital management\obj\Debug\net6.0\refint\hospital management.dll
+E:\Uni\app dev with .net\a1\hospital management\hospital management\obj\Debug\net6.0\hospital management.pdb
+E:\Uni\app dev with .net\a1\hospital management\hospital management\obj\Debug\net6.0\hospital management.genruntimeconfig.cache
+E:\Uni\app dev with .net\a1\hospital management\hospital management\obj\Debug\net6.0\ref\hospital management.dll
+E:\Uni\app dev with .net\a1\hospital management\hospital management\bin\Debug\net6.0\ConsoleTables.dll
+E:\Uni\app dev with .net\a1\hospital management\hospital management\obj\Debug\net6.0\hospital management.csproj.CopyComplete
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\bin\Debug\net6.0\hospital management.exe
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\bin\Debug\net6.0\hospital management.deps.json
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\bin\Debug\net6.0\hospital management.runtimeconfig.json
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\bin\Debug\net6.0\hospital management.dll
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\bin\Debug\net6.0\hospital management.pdb
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\bin\Debug\net6.0\ConsoleTables.dll
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\obj\Debug\net6.0\hospital management.csproj.AssemblyReference.cache
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\obj\Debug\net6.0\hospital management.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\obj\Debug\net6.0\hospital management.AssemblyInfoInputs.cache
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\obj\Debug\net6.0\hospital management.AssemblyInfo.cs
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\obj\Debug\net6.0\hospital management.csproj.CoreCompileInputs.cache
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\obj\Debug\net6.0\hospital management.csproj.CopyComplete
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\obj\Debug\net6.0\hospital management.dll
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\obj\Debug\net6.0\refint\hospital management.dll
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\obj\Debug\net6.0\hospital management.pdb
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\obj\Debug\net6.0\hospital management.genruntimeconfig.cache
+E:\Uni\app dev with .net\14104638-Assignment1-HospitalManagementSystem\hospital management\hospital management\obj\Debug\net6.0\ref\hospital management.dll
